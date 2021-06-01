@@ -1,0 +1,112 @@
+body{
+	margin-top:4%;
+	margin-left:9%;
+	width: 80%;
+}
+.Logo{
+	margin-left:10%;
+	display: inline-block;
+	margin-top:-3%;
+}
+button:hover{
+  color:green;
+  cursor:pointer;
+}
+button{
+	border:white;
+	background-color:white;
+	display: inline-block;
+}
+.kopce1{
+	margin-left:70%;
+}
+.kopce2{
+	margin-left:3% ;
+}
+.kopce3{
+	margin-left:3% ;
+}
+hr{
+	width: 100%;
+}
+.amet{
+	font-size: 40px;
+	margin-top: -1.5%;
+	margin-left: 7%;
+	color:white;
+	font-weight: 670;
+}
+.lorem1{
+	font-size: 40px;
+	margin-top: -1.5%;
+	margin-left: 7%;
+	color:white;
+	font-weight: 670;
+
+}
+div{
+	background-color: darkblue;
+	height: 480px;
+}
+.elit{
+	font-size: 32px;
+	line-height: 1%;
+	margin-top: 3%;
+	margin-left: 7%;
+	color:white;
+	font-weight: 670;
+}
+.Kompjuter{
+	margin-left:42%;
+	margin-top:-26.5%;
+}
+.zelendiv{
+	background-color: lightgreen;
+	height: 350px;
+}
+.Malini{
+border-radius:20px;
+margin-left:8%;
+margin-top: 1.5%;
+display: inline-block;
+}
+.text{
+	
+	margin-left: 26%;
+	margin-top: -9%;
+	margin-right:8%;
+	text-align: justify;
+	text-justify: inter-word;
+}
+.text2{
+	
+    margin-top:-9.5%;
+	margin-right: 30%;
+	margin-left:8%;
+	text-align: justify;
+	text-justify: inter-word;
+}
+.Lale{
+	border-radius:20px;
+    margin-left:72%;
+    margin-top:2%;
+    display: inline-block;
+    
+}
+.faculty{
+	margin-top: -2%;
+	margin-left: 10%;
+	background-color: white;
+	height: 50px;
+	display: inline-block;
+}
+.kopce11{
+	margin-left: 25%;
+	margin-top: -12%;
+}
+.kopce22{
+	margin-left: 2%;
+}
+.kopce33{
+    margin-left: 2%;
+}
